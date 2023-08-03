@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 Atualmente trabalhando com eCommerce
-- 🌱 Estudando Sistemas de Informação - PUCMINAS
+- 🔭 Currently working with eCommerce
+- 🌱 Bachelor's degree in Information Systems - PUCMINAS
 - 📫 renatohaniel@gmail.com
-- ⚡ "Nossos fracassos, às vezes, são mais frutíferos do que os êxitos."
+- ⚡ "Our failures are sometimes more fruitful than our successes."
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
